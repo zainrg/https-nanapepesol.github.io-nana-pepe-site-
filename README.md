@@ -1,2 +1,2 @@
-# https-nanapepesol.github.io-nana-pepe-site-
+# https-nanapepesol.io
 “Cozy homepage project for Nana Pepe.”
